@@ -1,0 +1,109 @@
+/* Write some CSS below */
+/* #553c8b */
+/* #9ea9f0 */
+#banner p {
+  color: #E56B70;
+  font-size: 24px;
+}
+
+body {
+	font-family: 'Shadows Into Light Two', cursive;
+	margin: 0;
+}
+
+h1 {
+	font-family: 'Shadows Into Light Two', cursive;
+	color: #17223b
+}
+
+
+p {
+	font-family: 'Just Another Hand', cursive;
+	color: #17223b;
+}
+
+h2 {
+	font-family: 'Shadows Into Light Two', cursive;
+	color: #BBB5BD
+}
+
+h1 {
+	font-weight: none;
+}
+
+a {
+	text-decoration: none;
+	color: #ccc1ff;
+	font-weight: bold;
+}
+
+a: hover {
+	color: red;
+}
+
+img {
+	width: 150px;
+	height: 150px;
+	object-fit: cover;
+}
+
+.btn-blue {
+	padding: 1px 1px;
+	margin: 1px;
+	border-radius:1px;
+	background-color: #ff6768;
+	transition: 3s;
+	box-shadow:2px 2px 2px gray;
+}
+
+.btn-blue {
+	background: #ff6768;
+}
+
+#banner {
+	background-image: url("images/ut3.png");
+	background-size: cover;
+	background-position: center;
+	padding: 150px 0;
+}
+
+#banner {
+	text-align: center;
+}
+
+.cards {
+	display: flex;
+	justify-content: space-around;
+}
+
+.card {
+  background: #6b778d;
+  box-shadow: 0 0 16px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  width: 200px;
+  text-align: center;
+  padding: 24px;
+  margin: 8px;
+  flex-grow: 1;
+}
+
+
+.cards img {
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 2px;
+}
+
+.card h2 {
+  margin-bottom: 0;
+
+#footer {
+	font-size: 40px;
+	font-family: 'Shadows Into Light Two', cursive;
+}
+
+#footer p {
+	font-family: 'Shadows Into Light Two', cursive;
+}
+
